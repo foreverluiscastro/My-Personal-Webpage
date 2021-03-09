@@ -1,5 +1,12 @@
 body {
+    width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     background: purple;
   }
+
+p {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
